@@ -22,7 +22,3 @@ If you wish to apply the **493 License** to your own project:
 1. Copy the contents of the **493 License** from the [LICENSE.md](https://github.com/Noahscratch493/493-License/blob/main/LICENSE.md) file.
 2. Replace `[year]` and `[name]` in the license text with your project's copyright year and author name.
 3. Include the **LICENSE.md** file in your repository, or add the text to your project's license section.
-
-## Commercial Use
-
-Commercial use of the project is only permitted with **explicit permission** from the original author(s). If you wish to use the project commercially, please contact the author(s) for written consent.
