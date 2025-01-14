@@ -7,7 +7,7 @@ This License allows users to freely use, modify, and distribute the Project, inc
 
 ### Full License
 
-Copyright (c) <year> <name>
+Copyright (c) [year] [name]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this project and associated documentation files (the "Project"), to deal in the Project without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Project, subject to the following conditions:
 
@@ -21,7 +21,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
    The Project is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Project or the use or other dealings in the Project.
 
 4. **Commercial Use**:  
-   You are permitted to use, copy, modify, and distribute the Project, including for commercial purposes, as long as you comply with the terms set forth in this License.
+   Commercial use is only permitted with explicit permission from the original author(s). If you wish to use the Project commercially, you must obtain written consent from the author(s) and comply with the terms outlined in this License.
 
 5. **Redistribution**:  
    You may redistribute copies of the Project or modified versions, in source or binary form, under the terms of this License. You must provide proper attribution and include a copy of this license along with the redistributed Project.
